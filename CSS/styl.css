@@ -174,7 +174,7 @@ body {
   .preview-card {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    /* flex-direction: row; */
+    flex-direction: row;
     padding: 30rem;
   }
 }
